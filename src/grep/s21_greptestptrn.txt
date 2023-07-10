@@ -1,0 +1,4 @@
+^int
+for
+while
+char
